@@ -7,6 +7,8 @@ Whitepaper, Pitchdeck and One-Pager: https://drive.google.com/drive/folders/1fA-
 
 ## Check out demo video : https://www.youtube.com/watch?v=PPuRPsPV3LM
 
+## Contract Address: 0xD314be4C929d53E6Ab6f36B3a95e5028C5533b0b
+
 **There are 4 stakeholders :**
 
 1.) Issuer: University or Employer who issues the academic certificate or Work-Experience certificate.
